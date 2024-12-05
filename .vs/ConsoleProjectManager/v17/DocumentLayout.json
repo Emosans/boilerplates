@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Util.cs",
+              "RelativeDocumentMoniker": "ConsoleProjectManager\\Util.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Util.cs",
+              "RelativeToolTip": "ConsoleProjectManager\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:45:31.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleProjectManager\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Program.cs",
+              "RelativeToolTip": "ConsoleProjectManager\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:41:46.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
