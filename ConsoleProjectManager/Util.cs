@@ -9,7 +9,7 @@ namespace ConsoleProjectManager
     internal static class Util
     {
         public static int ShowOptions(string[] options,string message) {
-            Console.Write(message);
+            Console.WriteLine(message);
             for(int i = 0; i < options.Length; i++)
             {
                 Console.WriteLine($"{i + 1}) \t{options[i]}");
