@@ -18,7 +18,16 @@ namespace ConsoleProjectManager
             string directoryPath = Path.Combine(buildsPath, name);
             Directory.CreateDirectory(directoryPath);
 
-            File.WriteAllText(Path.Combine(directoryPath, $"{name}.c"), $"#include \"{name}.h\"");
+            string[] fileContents =
+            {
+                $"include {name}.h",
+                $"std::string {name}::helloWorld()",
+                "{",
+                @"   return ""hello world!"";",
+                "}"
+            };
+
+            File.WriteAllLines(Path.Combine(directoryPath, $"{name}.c"), fileContents);
 
             string headerDef = name.ToUpper();
 
@@ -26,6 +35,12 @@ namespace ConsoleProjectManager
             {
                 $"#ifndef {headerDef}",
                 $"#define {headerDef}\n",
+                "#include<iostream>",
+                $"class {headerDef.ToLower()}",
+                "{",
+                "public:",
+                "std::string helloWord();",
+                "};",
                 $"#endif // {headerDef}",
             };
             File.WriteAllLines(Path.Combine(directoryPath, $"{name}.h"), headerDefines);

@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\go_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\go_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\cfiles_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\cfiles_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\node_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\node_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\rust_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\rust_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\go_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\go_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\cfiles_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\cfiles_util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|c:\\users\\shrey\\onedrive\\documents\\consoleprojectmanager\\consoleprojectmanager\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46F130E-ABA8-4BBE-8288-58564688E35A}|ConsoleProjectManager\\ConsoleProjectManager.csproj|solutionrelative:consoleprojectmanager\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Util.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Util.cs",
               "RelativeDocumentMoniker": "ConsoleProjectManager\\Util.cs",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleProjectManager\\Program.cs",
               "ToolTip": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Program.cs",
               "RelativeToolTip": "ConsoleProjectManager\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAsAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T06:41:46.816Z",
               "IsPinned": true,
@@ -65,13 +65,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Go_Util.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Go_Util.cs",
               "RelativeDocumentMoniker": "ConsoleProjectManager\\Go_Util.cs",
               "ToolTip": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Go_Util.cs",
               "RelativeToolTip": "ConsoleProjectManager\\Go_Util.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBkAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T12:38:31.444Z",
               "EditorCaption": ""
@@ -84,34 +84,36 @@
               "RelativeDocumentMoniker": "ConsoleProjectManager\\Node_Util.cs",
               "ToolTip": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Node_Util.cs",
               "RelativeToolTip": "ConsoleProjectManager\\Node_Util.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwCgAAAAaAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T09:55:42.687Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Rust_Util.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Rust_Util.cs",
               "RelativeDocumentMoniker": "ConsoleProjectManager\\Rust_Util.cs",
               "ToolTip": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\Rust_Util.cs",
               "RelativeToolTip": "ConsoleProjectManager\\Rust_Util.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:37:06.955Z"
+              "WhenOpened": "2024-12-05T09:37:06.955Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "CFiles_Util.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\CFiles_Util.cs",
               "RelativeDocumentMoniker": "ConsoleProjectManager\\CFiles_Util.cs",
               "ToolTip": "C:\\Users\\shrey\\OneDrive\\Documents\\ConsoleProjectManager\\ConsoleProjectManager\\CFiles_Util.cs",
               "RelativeToolTip": "ConsoleProjectManager\\CFiles_Util.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:15:06.986Z"
+              "WhenOpened": "2024-12-05T09:15:06.986Z",
+              "EditorCaption": ""
             }
           ]
         }
